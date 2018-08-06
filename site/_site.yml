@@ -1,0 +1,6 @@
+name: "Ghislain Vieilledent"
+output_dir: "../docs"
+output:
+  html_document:
+    theme: spacelab
+    css: styles.css
