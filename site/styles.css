@@ -18,11 +18,8 @@ h5 {
 h6 {
   font-size: 12px;
 }
-img {
-  display: block;
+.banner {
+	display: block;
   margin: auto;
-}
-
-img-circle {
-  border-radius: 50%;
+  border-radius: 10px;
 }

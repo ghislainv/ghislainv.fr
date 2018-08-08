@@ -2,7 +2,7 @@
 title: "ghislainv.fr"
 ---
 
-<img src="images/Canigou_banner.jpg">
+<img class="banner" src="images/Canigou_banner.jpg" alt="banner">
 
 # [ecology](https://ecology.ghislainv.fr) 
 
