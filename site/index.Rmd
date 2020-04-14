@@ -9,5 +9,6 @@ title: "ghislainv.fr"
 Ghislain VIEILLEDENT<br>
 Montpellier, FRANCE<br>
 ghislainv(at)gmail(dot)com<br>
-[PGP public key](https://ghislainv.fr/public.asc)<br>
 <https://ghislainv.fr><br>
+
+[PGP public key](https://ghislainv.fr/public.pgp)<br>
