@@ -7,8 +7,7 @@ title: "ghislainv.fr"
 # [ecology](https://ecology.ghislainv.fr) 
 
 Ghislain VIEILLEDENT<br>
-Montpellier, FRANCE<br>
-ghislainv(at)gmail(dot)com<br>
+FRANCE<br>
 <https://ghislainv.fr><br>
 
-[PGP public key](https://ghislainv.fr/public.pgp)<br>
+[GPG public key](https://ghislainv.fr/pubkey.asc)<br>
